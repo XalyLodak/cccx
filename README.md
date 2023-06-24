@@ -9,10 +9,10 @@ For the moment, Python string (by default with Python3)
 Install Python on your computer (logic)
 
 Windows :
-python.exe C:\Users\username\cccx.py
+python.exe C:\Users\username\cccx2.0.py
 
 GNU/Linux and macOS :
 
-python3 /home/user/cccx.py
+python3 /home/user/cccx2.0.py
 
 
