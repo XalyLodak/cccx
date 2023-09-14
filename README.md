@@ -1,4 +1,4 @@
-# CCCX (Cesar Code Creator by XalyLodak
+# CCCX (Cesar Code Creator by XalyLodak)
 Encode your phrase with Cesar code
 
 ### Requirements
