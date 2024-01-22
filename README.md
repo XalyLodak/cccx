@@ -6,7 +6,7 @@ For the moment, Python string (by default with Python3)
 
 #### Execute
 
-Install Python on your computer (logic)
+Install Python on your computer https://python.org/
 
 Windows :
 ```
